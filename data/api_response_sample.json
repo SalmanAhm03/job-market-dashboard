@@ -1,0 +1,796 @@
+{
+  "status": "OK",
+  "request_id": "397bc48f-eb50-4b35-b127-c14486272586",
+  "parameters": {
+    "query": "data analyst in USA",
+    "page": 1,
+    "num_pages": 1,
+    "country": "us",
+    "language": "en"
+  },
+  "data": [
+    {
+      "job_id": "7gVf4GvAY8KCDOD0AAAAAA==",
+      "job_title": "Data Analytics Office Lead (O-6 Billet) Supervisory",
+      "employer_name": "ERO-DRO-IHSC Public Health Service",
+      "employer_logo": null,
+      "employer_website": null,
+      "job_publisher": "USAJobs",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.usajobs.gov/job/846734000?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "USAJobs",
+          "apply_link": "https://www.usajobs.gov/job/846734000?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=0dae3bb932bf0d25&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/US-Department-of-Homeland-Security/Job/Data-Analytics-Office-Lead-(O-6-Billet)-Supervisory/-in-Washington,DC?jid=5ae95930945b2b6e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/data-analytics-office-lead-o-6-billet-supervisory-at-u-s-immigration-and-customs-enforcement-ice-4310551982?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.com/job/nuakQAAnVE1oQLm3kISvj8p41_9ecq5SDUM-MKsTcbnRItAiZxXmFA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/data-analytics-office-lead-o-6-billet-supervisory-us-immigration-and-customs-enforcement-JV_IC1138213_KO0,49_KE50,88.htm?jl=1009897655577&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Ladders",
+          "apply_link": "https://www.theladders.com/job/data-analytics-office-lead-o-6-billet-supervisory-usgovernment-washington-dc_83715382?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Bandana.com",
+          "apply_link": "https://bandana.com/jobs/9ab25a9c-08fc-4eb3-a490-721ed0bdcfce?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "The Data Analytics Office (DAO) Supervisory Lead oversees data analytics operations for ICE Health Service Corps (IHSC), managing a multidisciplinary team to ensure accurate reporting and data quality. Responsibilities include supervising staff and supporting decision-making. Requires a master's degree in a relevant field, leadership, and expertise in data analytics, governance, and communication.\n\nThis position is only open to USPHS officers and Call to Active Duty (CAD) candidates.",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "Washington, DC",
+      "job_city": "Washington",
+      "job_state": "District of Columbia",
+      "job_country": "US",
+      "job_latitude": 38.9071923,
+      "job_longitude": -77.0368707,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7gVf4GvAY8KCDOD0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Requires a master's degree in a relevant field, leadership, and expertise in data analytics, governance, and communication",
+          "This position is only open to USPHS officers and Call to Active Duty (CAD) candidates"
+        ],
+        "Responsibilities": [
+          "The Data Analytics Office (DAO) Supervisory Lead oversees data analytics operations for ICE Health Service Corps (IHSC), managing a multidisciplinary team to ensure accurate reporting and data quality",
+          "Responsibilities include supervising staff and supporting decision-making"
+        ]
+      },
+      "job_onet_soc": "43911100",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "4iFH9hOAv9lv32gxAAAAAA==",
+      "job_title": "Data Analyst - Senior",
+      "employer_name": "Amentum",
+      "employer_logo": null,
+      "employer_website": "https://www.amentum.com",
+      "job_publisher": "Amentum Careers",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.amentumcareers.com/jobs/data-analyst-senior-washington-district-of-columbia-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Amentum Careers",
+          "apply_link": "https://www.amentumcareers.com/jobs/data-analyst-senior-washington-district-of-columbia-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=fa23fb823477ba45&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/BLUEFORCE-INC/Job/STE-Senior-Data-Analyst/-in-Washington,DC?jid=6edc685d664921cb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Teal",
+          "apply_link": "https://www.tealhq.com/job/data-analyst-senior_96d39324-0fb9-4253-9b23-cbb3f64fe2ba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/ste-senior-data-analyst-blueforce-JV_IC1138213_KO0,23_KE24,33.htm?jl=1009529358657&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Ladders",
+          "apply_link": "https://www.theladders.com/job/ste-senior-data-analyst-blueforce-inc-washington-dc_81783038?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.com/job/_dYaDGyr4rLYtAQDyYfqpRzLRfazwAS6JT9JTk2Q0NnVz7KQtGuPwQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee",
+          "apply_link": "https://us.bebee.com/job/90e3a2b85ecb49c635e602adcef2db0d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "As a Top Secret Data Analyst for this program, you will be working in an organization that’s mission is to develop and operate the best possible software for critical national security enterprise applications. This organization leverages SCRUM and SAFE Agile software development methodology and strong Dev Ops practices.\n\nYou will be responsible for performing analysis on relevant information from a variety of sources to prepare documents, reports, summaries and replies to inquiries, ensuring accuracy and proper format of the information provided. Manages the compilation, cataloging, caching, distribution, and retrieval of data. You’ll participate in ad hoc data projects and analyses that produce actionable recommendations that build relevant insights for internal and external stakeholders. You’ll collect data and runs basic reports in response to client inquiries. You will work closely with key internal stakeholders to ensure sound knowledge of client requirements to support development of best-in-class analytical solutions.\n\nResponsibilities:\n\nPerforms analysis on relevant information from a variety of sources to prepare documents, reports, summaries and replies to inquiries, ensuring accuracy and proper format of the information provided. Manages the compilation, cataloging, caching, distribution, and retrieval of data. Participates in Ad hoc data projects and analyses that produce actionable recommendations that build relevant insights for internal and external stakeholders. Collects data and runs basic reports in response to client inquiries. Works closely with key internal stakeholders to ensure sound knowledge of client requirements to support development of best-in-class analytical solutions. Accurately enters required data into one or more databases, documents and/or spreadsheets.\n\nPossesses and applies expertise on multiple complex work assignments. Assignments may be broad in nature, requiring originality and innovation in determining how to accomplish tasks. Operates with appreciable latitude in developing methodology and presenting solutions to problems. Contributes to deliverables and performance metrics where applicable.\n\nA typical day in the life on this program involves:\n• Provide Help Desk support for escalated tickets\n• Optimize the workplace through administrative and logistics support\n• Provide budgetary data analysis\n• Leverage Microsoft Suite, SharePoint and PowerBI\n\nThis position will be contingent upon award to support on-site in Washington, DC at the customer facility.\n\nRequirements:\n• Active Top Secret with SCI eligibility\n• Minimum of 10 years of experience with 6 years of related technical specialized experience\n• Education: Bachelor's Degree in Information Systems Engineering, Computer Science, Engineering, Business or other related field\n• In absence of degree, additional years of experience may be substituted for educational requirements\n\nPreferred:\n• Microsoft Suite (Excel, PowerPoint, Word)\n• SharePoint\n• PowerBI\n\n#javelin\n\nPay Transparency Verbiage\n\nAmentum’s health and welfare benefits are designed to invest in you and in the things you care about. Your health. Your well-being. Your security. Your future. Eligible employees and their dependents may elect medical, dental, vision, and basic life insurance. Employees are able to enroll in our company’s 401k plan, and, if eligible, a deferred compensation plan and Executive Deferral Plan. Employees will also receive 17 days of vacation per year, seven paid holidays, plus floating holidays and caregiver leave. Hired applicants will be able to purchase company stock and have the opportunity to receive a performance discretionary bonus.\n\nThe base salary range for this position is $150k to $155k. This range reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training.",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "Washington, DC",
+      "job_city": "Washington",
+      "job_state": "District of Columbia",
+      "job_country": "US",
+      "job_latitude": 38.9071923,
+      "job_longitude": -77.0368707,
+      "job_benefits": [
+        "paid_time_off",
+        "health_insurance",
+        "dental_coverage"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4iFH9hOAv9lv32gxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Possesses and applies expertise on multiple complex work assignments",
+          "Active Top Secret with SCI eligibility",
+          "Minimum of 10 years of experience with 6 years of related technical specialized experience",
+          "Education: Bachelor's Degree in Information Systems Engineering, Computer Science, Engineering, Business or other related field",
+          "In absence of degree, additional years of experience may be substituted for educational requirements"
+        ],
+        "Benefits": [
+          "Amentum’s health and welfare benefits are designed to invest in you and in the things you care about",
+          "Eligible employees and their dependents may elect medical, dental, vision, and basic life insurance",
+          "Employees are able to enroll in our company’s 401k plan, and, if eligible, a deferred compensation plan and Executive Deferral Plan",
+          "Employees will also receive 17 days of vacation per year, seven paid holidays, plus floating holidays and caregiver leave",
+          "Hired applicants will be able to purchase company stock and have the opportunity to receive a performance discretionary bonus",
+          "The base salary range for this position is $150k to $155k",
+          "This range reflects the minimum and maximum target for new hire salaries for the position across all US locations",
+          "Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training"
+        ],
+        "Responsibilities": [
+          "This organization leverages SCRUM and SAFE Agile software development methodology and strong Dev Ops practices",
+          "You will be responsible for performing analysis on relevant information from a variety of sources to prepare documents, reports, summaries and replies to inquiries, ensuring accuracy and proper format of the information provided",
+          "Manages the compilation, cataloging, caching, distribution, and retrieval of data",
+          "You’ll participate in ad hoc data projects and analyses that produce actionable recommendations that build relevant insights for internal and external stakeholders",
+          "You’ll collect data and runs basic reports in response to client inquiries",
+          "You will work closely with key internal stakeholders to ensure sound knowledge of client requirements to support development of best-in-class analytical solutions",
+          "Performs analysis on relevant information from a variety of sources to prepare documents, reports, summaries and replies to inquiries, ensuring accuracy and proper format of the information provided",
+          "Manages the compilation, cataloging, caching, distribution, and retrieval of data",
+          "Participates in Ad hoc data projects and analyses that produce actionable recommendations that build relevant insights for internal and external stakeholders",
+          "Collects data and runs basic reports in response to client inquiries",
+          "Works closely with key internal stakeholders to ensure sound knowledge of client requirements to support development of best-in-class analytical solutions",
+          "Accurately enters required data into one or more databases, documents and/or spreadsheets",
+          "Assignments may be broad in nature, requiring originality and innovation in determining how to accomplish tasks",
+          "Operates with appreciable latitude in developing methodology and presenting solutions to problems",
+          "Contributes to deliverables and performance metrics where applicable",
+          "Provide Help Desk support for escalated tickets",
+          "Optimize the workplace through administrative and logistics support",
+          "Provide budgetary data analysis",
+          "Leverage Microsoft Suite, SharePoint and PowerBI",
+          "This position will be contingent upon award to support on-site in Washington, DC at the customer facility"
+        ]
+      },
+      "job_onet_soc": "43911100",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "p5MXUd7ODecP0A6tAAAAAA==",
+      "job_title": "AUV Data Analyst Job at Think Tank, Inc. in Silver Spring",
+      "employer_name": "Think Tank, Inc.",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9mKcNeaQUBpwSfyMQaBDGa3zXpzS0NZmLsFdG&s=0",
+      "employer_website": "https://ttinc.com",
+      "job_publisher": "Recruit.net",
+      "job_employment_type": "Part-time",
+      "job_employment_types": [
+        "PARTTIME"
+      ],
+      "job_apply_link": "https://www.recruit.net/job/auv-data-analyst-at-think-jobs/F02FDFB734910B63?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Recruit.net",
+          "apply_link": "https://www.recruit.net/job/auv-data-analyst-at-think-jobs/F02FDFB734910B63?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "JOB DESCRIPTION\nJob Description\n• Authorized to work in the US Required\n• Part-time Remote Position with occasional travel\n• Proposal Effort, Position is Subject to Contract Award\nPOSITION DESCRIPTION:\nThink Tank is seeking an AUV Data Analyst to support cutting-edge deep-sea ecosystem research.\nThis role focuses on analyzing data from Autonomous Underwater Vehicles (AUVs) to identify benthic fish and invertebrates, assess habitat conditions, and contribute to sustainable fisheries management along the U.S.\nWest Coast.\nThe position combines fieldwork, advanced data analysis, and scientific publishing to support NOAA's mission of protecting and sustaining essential fish habitats.\nRESPONSIBILITIES:\n• Identify and catalog benthic fish and invertebrates in AUV imagery.\n• Guide team members with limited species ID experience and provide training resources.\n• Contribute expertise to improve data workflows, QA/QC, and efficiency.\n• Assist in planning and conducting AUV surveys during research cruises.\n• Support targeted data collection in deep-sea habitats, including sponge-dominated ecosystems.\n• Prepare, enter, and manage datasets from underwater imagery.\n• Conduct statistical analyses of benthic fauna distributions using R or similar tools.\n• Generate spreadsheets, reports, and PowerPoint presentations summarizing results.\n• Draft manuscripts for peer-reviewed publications\n• Provide detailed descriptions and representative images of newly identified species.\n• Present findings at scientific meetings and workshops.\nREQUIREMENTS:\n• Bachelor's degree or higher in Marine Biology, Fisheries, Oceanography, Natural Science, Mathematics, Hydrology, or related fields.\n• Combination of degree plus 4 years' relevant experience, or a total of 8 years' combined education and experience.\n• Master's degree or Ph.D. may substitute for experience.\n• At least 6 years' experience collecting benthic invertebrate data, particularly sponges.\n• Proven expertise identifying cold-water sponges and fish from underwater imagery.\n• Strong background in statistical analysis of marine data, including use of R.\n• Experience with AUV/ROV-based data collection and analysis.\n• Prior at-sea research experience.\n• Demonstrated success leading or contributing to peer-reviewed publications.\n• Strong written and verbal communication skills\nPlease contact hr@ttinc.com if you encounter any issues with your application or have any questions.",
+      "job_is_remote": false,
+      "job_posted_at": "2 days ago",
+      "job_posted_at_timestamp": 1762732800,
+      "job_posted_at_datetime_utc": "2025-11-10T00:00:00.000Z",
+      "job_location": "Silver Spring, MD",
+      "job_city": "Silver Spring",
+      "job_state": "Maryland",
+      "job_country": "US",
+      "job_latitude": 38.9960671,
+      "job_longitude": -77.0280731,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dp5MXUd7ODecP0A6tAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Authorized to work in the US Required",
+          "Bachelor's degree or higher in Marine Biology, Fisheries, Oceanography, Natural Science, Mathematics, Hydrology, or related fields",
+          "Combination of degree plus 4 years' relevant experience, or a total of 8 years' combined education and experience",
+          "Master's degree or Ph.D. may substitute for experience",
+          "At least 6 years' experience collecting benthic invertebrate data, particularly sponges",
+          "Proven expertise identifying cold-water sponges and fish from underwater imagery",
+          "Strong background in statistical analysis of marine data, including use of R",
+          "Experience with AUV/ROV-based data collection and analysis",
+          "Prior at-sea research experience",
+          "Demonstrated success leading or contributing to peer-reviewed publications",
+          "Strong written and verbal communication skills",
+          "Please contact hr@ttinc.com if you encounter any issues with your application or have any questions"
+        ],
+        "Responsibilities": [
+          "Part-time Remote Position with occasional travel",
+          "Proposal Effort, Position is Subject to Contract Award",
+          "Think Tank is seeking an AUV Data Analyst to support cutting-edge deep-sea ecosystem research",
+          "This role focuses on analyzing data from Autonomous Underwater Vehicles (AUVs) to identify benthic fish and invertebrates, assess habitat conditions, and contribute to sustainable fisheries management along the U.S",
+          "The position combines fieldwork, advanced data analysis, and scientific publishing to support NOAA's mission of protecting and sustaining essential fish habitats",
+          "Identify and catalog benthic fish and invertebrates in AUV imagery",
+          "Guide team members with limited species ID experience and provide training resources",
+          "Contribute expertise to improve data workflows, QA/QC, and efficiency",
+          "Assist in planning and conducting AUV surveys during research cruises",
+          "Support targeted data collection in deep-sea habitats, including sponge-dominated ecosystems",
+          "Prepare, enter, and manage datasets from underwater imagery",
+          "Conduct statistical analyses of benthic fauna distributions using R or similar tools",
+          "Generate spreadsheets, reports, and PowerPoint presentations summarizing results",
+          "Draft manuscripts for peer-reviewed publications",
+          "Provide detailed descriptions and representative images of newly identified species",
+          "Present findings at scientific meetings and workshops"
+        ]
+      },
+      "job_onet_soc": "43911100",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "-MWRnF4NHuZim53VAAAAAA==",
+      "job_title": "Analyst II, Fraud Analytics",
+      "employer_name": "Affirm",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqCeJUPnYBrHTQUqAdgfs8iXzIl8AU0daCPc_b&s=0",
+      "employer_website": "https://www.affirm.com",
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.linkedin.com/jobs/view/analyst-ii-fraud-analytics-at-affirm-4282312431?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/analyst-ii-fraud-analytics-at-affirm-4282312431?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobs Trabajo.org",
+          "apply_link": "https://us.trabajo.org/job-2850-902364ba240c474fea6b0e02757b1b21?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobilize",
+          "apply_link": "https://www.jobilize.com/job/us-dc-all-cities-fraud-governance-analyst-iii-remote-8-consultnet?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Learn4Good",
+          "apply_link": "https://www.learn4good.com/jobs/washington/district-of-columbia/government/4571172346/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.\n\nOur Fraud Strategy & Analytics team is looking for an Analyst II, Fraud Analytics to join us in driving improvements across the Trust and Safety online decisioning strategy and user journeys at Affirm! The ideal candidate will bring a sharp analytical mindset, strong business intuition, and a collaborative spirit to uncover optimization opportunities and influence product strategy. We’re excited to meet candidates who are eager to deliver impact through data-driven insights, scalable experimentation, and thoughtful fraud strategy that enhances both user experience and safety.\n\nWhat You’ll Do\n• Proactively explore data and identify opportunities to help accelerate product development or improve existing products in Trust and Safety domain, and drive the analytical work of online experiment to optimize the existing fraud decisioning strategies to achieve better conversion rate.\n• Translate analysis and trends into recommendations for business logic to improve identity and fraud conversion rates or fraud rates\n• Develop scalable frameworks to manage tiered cutoffs for proprietary fraud machine learning models\n• Evaluate innovative data sources to solve fraud risk, and partner with the data engineering team to develop and maintain the data pipelines for our core datasets for analytical purposes.\n• Own end-to-end analytics workflow, including defining success and performance metrics, socializing them across the organization, and creating actionable dashboards and reports\n• Partner with Machine Learning on building fraud and identity verification strategies for new product, market, and user segments\n• Partner closely with Product and Engineering to identify highest impact points in the funnel to drive user acquisition and retention\n\nWhat We Look For\n• EXPERIENCE - 2-4 years work experience in customer risk management at a payments or financial company.\n• TECHNICAL SKILLS - Fluent in SQL and Python or R\n• PEOPLE SKILLS - A team player with ability to collaborate and influence across different teams in the organization\n• COMMUNICATION - Ability to clearly communicate findings and recommendations to both technical and non-technical audiences\n• PRODUCT KNOWLEDGE - Passion to understand how the product works and how to change to make it more effective\n• MULTI-TASKING - Strong time management skills and the ability to manage multiple projects and priorities\n• Able to thrive in a fast-paced environment and be responsive and available during high intensity moments\n• EDUCATION - Bachelor’s or Master’s degree degree in a quantitatively rigorous discipline like engineering, statistics, math, or economics desired\n• RISK KNOWLEDGE - Knowledge of the fundamentals of payment processing and an understanding of industry risk trends, including familiarity with risk strategy development.\n\nPay Grade - K\n\nEquity Grade - 6\n\nEmployees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.\n\nBase pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.)\n\nUSA base pay range (CA, WA, NY, NJ, CT) per year: $140,000 - $190,000\n\nUSA base pay range (all other U.S. states) per year: $124,000 - $174,000\n\nAffirm is proud to be a remote-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office-based due to the nature of their job responsibilities.\n\nBenefits\n\nWe’re extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include:\n• Health care coverage - Affirm covers all premiums for all levels of coverage for you and your dependents\n• Flexible Spending Wallets - generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses\n• Time off - competitive vacation and holiday schedules allowing you to take time off to rest and recharge\n• ESPP - An employee stock purchase plan enabling you to buy shares of Affirm at a discount\n\nWe believe It’s On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.\n\n[For U.S. positions that could be performed in Los Angeles or San Francisco] Pursuant to the San Francisco Fair Chance Ordinance and Los Angeles Fair Chance Initiative for Hiring Ordinance, Affirm will consider for employment qualified applicants with arrest and conviction records.\n\nBy clicking \"Submit Application,\" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.",
+      "job_is_remote": false,
+      "job_posted_at": "10 days ago",
+      "job_posted_at_timestamp": 1762041600,
+      "job_posted_at_datetime_utc": "2025-11-02T00:00:00.000Z",
+      "job_location": "Washington, DC",
+      "job_city": "Washington",
+      "job_state": "District of Columbia",
+      "job_country": "US",
+      "job_latitude": 38.9071923,
+      "job_longitude": -77.0368707,
+      "job_benefits": [
+        "dental_coverage",
+        "paid_time_off",
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D-MWRnF4NHuZim53VAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "EXPERIENCE - 2-4 years work experience in customer risk management at a payments or financial company",
+          "TECHNICAL SKILLS - Fluent in SQL and Python or R",
+          "PEOPLE SKILLS - A team player with ability to collaborate and influence across different teams in the organization",
+          "COMMUNICATION - Ability to clearly communicate findings and recommendations to both technical and non-technical audiences",
+          "PRODUCT KNOWLEDGE - Passion to understand how the product works and how to change to make it more effective",
+          "MULTI-TASKING - Strong time management skills and the ability to manage multiple projects and priorities",
+          "Able to thrive in a fast-paced environment and be responsive and available during high intensity moments",
+          "RISK KNOWLEDGE - Knowledge of the fundamentals of payment processing and an understanding of industry risk trends, including familiarity with risk strategy development"
+        ],
+        "Benefits": [
+          "Pay Grade - K",
+          "Equity Grade - 6",
+          "Employees new to Affirm typically come in at the start of the pay range",
+          "Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills",
+          "Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.)",
+          "USA base pay range (CA, WA, NY, NJ, CT) per year: $140,000 - $190,000",
+          "USA base pay range (all other U.S. states) per year: $124,000 - $174,000",
+          "We’re extremely proud to offer competitive benefits that are anchored to our core value of people come first",
+          "Health care coverage - Affirm covers all premiums for all levels of coverage for you and your dependents",
+          "Flexible Spending Wallets - generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses",
+          "Time off - competitive vacation and holiday schedules allowing you to take time off to rest and recharge",
+          "ESPP - An employee stock purchase plan enabling you to buy shares of Affirm at a discount"
+        ],
+        "Responsibilities": [
+          "The ideal candidate will bring a sharp analytical mindset, strong business intuition, and a collaborative spirit to uncover optimization opportunities and influence product strategy",
+          "Proactively explore data and identify opportunities to help accelerate product development or improve existing products in Trust and Safety domain, and drive the analytical work of online experiment to optimize the existing fraud decisioning strategies to achieve better conversion rate",
+          "Translate analysis and trends into recommendations for business logic to improve identity and fraud conversion rates or fraud rates",
+          "Develop scalable frameworks to manage tiered cutoffs for proprietary fraud machine learning models",
+          "Evaluate innovative data sources to solve fraud risk, and partner with the data engineering team to develop and maintain the data pipelines for our core datasets for analytical purposes",
+          "Own end-to-end analytics workflow, including defining success and performance metrics, socializing them across the organization, and creating actionable dashboards and reports",
+          "Partner with Machine Learning on building fraud and identity verification strategies for new product, market, and user segments",
+          "Partner closely with Product and Engineering to identify highest impact points in the funnel to drive user acquisition and retention",
+          "Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office"
+        ]
+      },
+      "job_onet_soc": "13209900",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "_TPtrZnUk_a-alwWAAAAAA==",
+      "job_title": "Analytics Data Analyst",
+      "employer_name": "McDermott Will & Schulte",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFXfE4UDAxkAzHuwjH-eX10Gu6jugIVr29L6UC&s=0",
+      "employer_website": null,
+      "job_publisher": "Learn4Good",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.learn4good.com/jobs/washington/district-of-columbia/hr_and_recruitment/4579087001/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Learn4Good",
+          "apply_link": "https://www.learn4good.com/jobs/washington/district-of-columbia/hr_and_recruitment/4579087001/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Position: People Analytics Data Analyst\n\nJoin to apply for the People Analytics Analyst role at McDermott Will & Schulte\n\nBuild your big career with the firm that does Big Law, Better\n. McDermott Will & Schulte is a leading global law firm that brings together more than 1,750 lawyers and 3,200 business professionals. We celebrate excellence, collaboration, and community and have been recognized as a top workplace by USA Today, Fortune, The American Lawyer, Vault and others. We are also certified by Great Place to Work.\nWith Us, You’ll Find\n• A firm where everyone belongs:\nOur award‑winning culture prioritizes warmth and authenticity — we encourage you to be yourself!\n• Enthusiasm for all perspectives:\nWe’re smarter and stronger when everyone has a voice and a seat at the table. We welcome unique viewpoints and ideas, and we make opportunities for you and your career to thrive.\n• Support to feel your best and do your best:\nWellness is integral to building a successful career and a rich life. That’s why our benefits program supports your physical, emotional, mental, and financial health, with an emphasis on work‑life balance.\n• Real rewards for real work:\nWe offer generous compensation packages that recognize hard work and excellence.\nJob Description\n\nThe People Analytics Analyst supports the Firm’s People Analytics function by providing leaders and teams with timely, trustworthy, and responsible insights from our HR and People data. This position combines data analysis, visualization, and reporting to deliver meaningful insights around staffing, performance and productivity, internal mobility, retention, engagement, and skill development. The People Analytics Data Analyst develops consistent and reliable metrics for the global HR function, focusing on improving department performance and demonstrating return on infrastructure and staffing investments.\nAs\n\nPeople Analytics Analyst You Will\n• Review and complete HR and People data analysis requests for HR colleagues and Firm leadership.\n• Design and implement dashboards, analyses, and presentations for HR colleagues and Firm leadership.\n• Manage the design, implementation, and process administration for the Firm’s listening and engagement surveys.\n• Collaborate with HR Managers to design and implement workforce modeling, headcount planning, and talent pipeline analytics for specific practice groups and business functions.\n• Partner with HR project leads and the HR leadership team to analyze the effectiveness and impact of global HR projects, programs, and policy changes.\n• Manage the Workday Peakon module and Qualtrics survey tools, ensuring configuration and user utilization maximize system capabilities.\n• Support the design, maintenance, and adoption of Workday Reporting and Prism functionality.\n• Partner with HRIS and IT to ensure HR and People data is accurate, secure, and well‑governed.\nJob Specifications\n• Bachelor’s degree or equivalent work experience.\n• At least three years of progressive experience working in law firms or professional services organizations.\n• Knowledge of People Analytics concepts, tools, and frameworks.\n• Knowledge of HRIS systems and capabilities.\n• Strong project management and prioritization skills.\n• Strong written and verbal communication skills, including comfort presenting to senior stakeholders.\n• Ability to analyze and translate data into actionable insights and decisions.\n• Ability to manage multiple priorities in a fast‑paced environment.\n• Ability to work collaboratively and flexibly across departments and levels.\n• Ability to handle and maintain confidential information.\nPhysical Demands and Work Environment\n\nThe physical demands and work environment characteristics described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.\n• While performing the duties of this job, the employee is required to sit, use hands, reach with hands and arms, stoop, talk and hear.\n• Employee must occasionally lift up to twenty (20) pounds.\n\nTypical indoor office environment.\nDisclaimer\n\nThe above statements are intended to describe the general nature and level of the work being performed by people within this classification. They are not intended to be an exhaustive list of all responsibilities, duties and skills required of employees assigned to this job.\n#J-18808-Ljbffr",
+      "job_is_remote": false,
+      "job_posted_at": "4 days ago",
+      "job_posted_at_timestamp": 1762560000,
+      "job_posted_at_datetime_utc": "2025-11-08T00:00:00.000Z",
+      "job_location": "Washington, DC",
+      "job_city": "Washington",
+      "job_state": "District of Columbia",
+      "job_country": "US",
+      "job_latitude": 38.9071923,
+      "job_longitude": -77.0368707,
+      "job_benefits": [
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_TPtrZnUk_a-alwWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Bachelor’s degree or equivalent work experience",
+          "At least three years of progressive experience working in law firms or professional services organizations",
+          "Knowledge of People Analytics concepts, tools, and frameworks",
+          "Knowledge of HRIS systems and capabilities",
+          "Strong project management and prioritization skills",
+          "Strong written and verbal communication skills, including comfort presenting to senior stakeholders",
+          "Ability to analyze and translate data into actionable insights and decisions",
+          "Ability to manage multiple priorities in a fast‑paced environment",
+          "Ability to work collaboratively and flexibly across departments and levels",
+          "Ability to handle and maintain confidential information",
+          "Physical Demands and Work Environment",
+          "The physical demands and work environment characteristics described here are representative of those that must be met by an employee to successfully perform the essential functions of this job",
+          "While performing the duties of this job, the employee is required to sit, use hands, reach with hands and arms, stoop, talk and hear",
+          "Employee must occasionally lift up to twenty (20) pounds"
+        ],
+        "Benefits": [
+          "That’s why our benefits program supports your physical, emotional, mental, and financial health, with an emphasis on work‑life balance",
+          "Real rewards for real work:",
+          "We offer generous compensation packages that recognize hard work and excellence"
+        ],
+        "Responsibilities": [
+          "The People Analytics Analyst supports the Firm’s People Analytics function by providing leaders and teams with timely, trustworthy, and responsible insights from our HR and People data",
+          "This position combines data analysis, visualization, and reporting to deliver meaningful insights around staffing, performance and productivity, internal mobility, retention, engagement, and skill development",
+          "The People Analytics Data Analyst develops consistent and reliable metrics for the global HR function, focusing on improving department performance and demonstrating return on infrastructure and staffing investments",
+          "Review and complete HR and People data analysis requests for HR colleagues and Firm leadership",
+          "Design and implement dashboards, analyses, and presentations for HR colleagues and Firm leadership",
+          "Manage the design, implementation, and process administration for the Firm’s listening and engagement surveys",
+          "Collaborate with HR Managers to design and implement workforce modeling, headcount planning, and talent pipeline analytics for specific practice groups and business functions",
+          "Partner with HR project leads and the HR leadership team to analyze the effectiveness and impact of global HR projects, programs, and policy changes",
+          "Manage the Workday Peakon module and Qualtrics survey tools, ensuring configuration and user utilization maximize system capabilities",
+          "Support the design, maintenance, and adoption of Workday Reporting and Prism functionality",
+          "Partner with HRIS and IT to ensure HR and People data is accurate, secure, and well‑governed",
+          "Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions"
+        ]
+      },
+      "job_onet_soc": "43911100",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "ToyzmiAbZ0I1-KxpAAAAAA==",
+      "job_title": "Online Data Analyst - United States of America",
+      "employer_name": "TELUS Digital",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR86xEnS1bNr8qJqw3CDS60DnVtWCpaS-E6XGSL&s=0",
+      "employer_website": "https://www.telusdigital.com",
+      "job_publisher": "The Muse",
+      "job_employment_type": "Part-time",
+      "job_employment_types": [
+        "PARTTIME"
+      ],
+      "job_apply_link": "https://www.themuse.com/jobs/telusdigital/online-data-analyst-united-states-of-america?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "The Muse",
+          "apply_link": "https://www.themuse.com/jobs/telusdigital/online-data-analyst-united-states-of-america?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/online-data-analyst-united-states-of-america-telus-digital-JV_KO0,44_KE45,58.htm?jl=1009499144032&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=3a62ee0cb736de0f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Remote Jobs USA - Remotenow.mysmartprosnetwfh",
+          "apply_link": "https://remotenow.mysmartpros.com/job/827285?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/TELUS-International/Job/Online-Data-Analyst-United-States-of-America/-in-Remote,US?jid=08f7d3addadc12ad&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Jobgether",
+          "apply_link": "https://jobgether.com/offer/69093bebdec002a1d459c85c-online-data-analyst---united-states-of-america?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Remote Jobs USA",
+          "apply_link": "https://jobsremoteparttime.com/job/676758?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Remote Jobs USA",
+          "apply_link": "https://swiftgaze.net/job/439868?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Description and RequirementsNo previous professional experience is required to apply to this role, however, working on this project will require you to pass the basic requirements and go through a standard assessment process. This is a part-time long-term project and your work will be subject to our standard quality assurance checks during the term of this agreement.Basic RequirementsFull Professional Proficiency in English languageBeing a resident in The United States for the last 2 consecutive years and having familiarity with current and historical business, media, sport, news, social media, and cultural affairs in The United StatesAbility to follow guidelines and conduct online research using search engines, online maps, and website informationFlexibility to work across a diverse set of task types, including maps, news, audio tasks, and relevanceDaily access to a broadband internet connection, computer, and relevant softwareAssessmentIn order to be hired into the program, you'll take an open book qualification exam that will determine your suitability for the position and complete ID verification. Our team will provide you with guidelines and learning materials before your qualification exam. You will be required to complete the exam in a specific timeframe but at your convenience.Equal OpportunityAll qualified applicants will receive consideration for a contractual relationship without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status. At TELUS Digital AI, we are proud to offer equal opportunities and are committed to creating a diverse and inclusive community. All aspects of selection are based on applicants' qualifications, merits, competence, and performance without regard to any characteristic related to diversity. Additional Job Description Are you a detail-oriented individual with a passion for research and a good understanding of national and local geography? This freelance opportunity allows you to work at your own pace and from the comfort of your own home.A Day in the Life of an Online Data Analyst:In this role, you will be working on a project aimed at enhancing the content and quality of digital maps that are used by millions of people worldwideCompleting research and evaluation tasks in a web-based environment such as verifying and comparing data, and determining the relevance and accuracy of information. Join us today and be part of a dynamic and innovative team that is making a difference in the world!TELUS Digital AI CommunityOur global AI Community is a vibrant network of 1 million+ contributors from diverse backgrounds who help our customers collect, enhance, train, translate, and localize content to build better AI models. Become part of our growing community and make an impact supporting the machine learning models of some of the world's largest brands. EEO Statement At TELUS Digital, we enable customer experience innovation through spirited teamwork, agile thinking, and a caring culture that puts customers first. TELUS Digital is the global arm of TELUS Corporation, one of the largest telecommunications service providers in Canada. We deliver contact center and business process outsourcing (BPO) solutions to some of the world's largest corporations in the consumer electronics, finance, telecommunications and utilities sectors. With global call center delivery capabilities, our multi-shore, multi-language programs offer safe, secure infrastructure, value-based pricing, skills-based resources and exceptional customer service - all backed by TELUS, our multi-billion dollar telecommunications parent.Equal Opportunity EmployerAt TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants' qualifications, merits, competence and performance without regard to any characteristic related to diversity.",
+      "job_is_remote": true,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "Washington, DC",
+      "job_city": "Washington",
+      "job_state": "District of Columbia",
+      "job_country": "US",
+      "job_latitude": 38.9071923,
+      "job_longitude": -77.0368707,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DToyzmiAbZ0I1-KxpAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "43911100",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "sJu-Q3xDXaRGJxeiAAAAAA==",
+      "job_title": "Data Analyst; OSBP",
+      "employer_name": "BeVera Solutions",
+      "employer_logo": null,
+      "employer_website": "https://www.beverasolutions.com",
+      "job_publisher": "Learn4Good",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.learn4good.com/jobs/falls-church/virginia/business/4582163509/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Learn4Good",
+          "apply_link": "https://www.learn4good.com/jobs/falls-church/virginia/business/4582163509/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Position: Data Analyst (OSBP)2\n\nAbout BeVera Solutions, LLC\n\nBeVera Solutions, LLCis a rapidly growing public health and professional services company that provides innovative solutions to federal and state agencies. Our team supports mission‑critical programs through expertise in program management, communications, acquisition, data analytics, and public health initiatives. Recognized as one of Atlanta’s Best Places to Work (2024 & 2025) by the Atlanta Business Chronicle, BeVera fosters a culture of integrity, excellence, and collaboration.\nJob Summary\n\nBeVera Solutions, LLC is seeking a detail‑oriented and analytical Data Analyst to provide data management, reporting, and analytical support for the Office of Small Business Programs (OSBP). The Data Analyst will collect, evaluate, and interpret data to support strategic planning, performance measurement, and decision‑making for small business utilization and program performance. This position plays a critical role in ensuring accurate data reporting to internal stakeholders and federal oversight offices, maintaining data integrity across multiple systems, and supporting the OSBP’s mission to promote small business participation in federal contracting opportunities.\nNotice\n\n– CONTINGENT POSITION\n\nThis role is part of a pre‑award candidate search for an upcoming federal government contract.\nDuties and Responsibilities\n• Collect, validate, and analyze data related to small business participation, subcontracting goals, and program performance.\n• Compile and interpret acquisition, contract, and vendor data from government systems (e.g., FPDS‑NG, SAM.gov, eSRS, or agency‑specific tools).\n• Develop and maintain dashboards, trackers, and databases to support OSBP leadership with timely, accurate insights.\n• Prepare recurring and ad‑hoc reports, summaries, and presentations for senior leadership, the Contracting Office, and other stakeholders.\n• Support the analysis of trends in small business utilization, socio‑economic category performance, and vendor outreach effectiveness.\n• Coordinate with program and acquisition staff to ensure data accuracy and compliance with federal reporting standards.\n• Assist in developing performance metrics, visualizations, and key performance indicators (KPIs) for program evaluation.\n• Support the preparation of congressional, audit, or agency reporting packages, ensuring all data is consistent and compliant.\n• Contribute to process improvement initiatives for data collection, reporting automation, and database management.\n• Maintain strict confidentiality and data integrity in accordance with federal data governance and cybersecurity requirements.\nRequirements\n• Education:\n\nBachelor’s degree in Data Analytics, Statistics, Business Administration, Economics, or a related quantitative field is required. A master’s degree is preferred.\n• Experience:\n\nMinimum of 3–5 years of experience in data analysis, reporting, or database management—preferably supporting a federal government program or acquisition office.\n• Demonstrated experience using data analytics tools and techniques to produce accurate and actionable reports.\n• Proficiency in Microsoft Excel (advanced formulas, pivot tables, charts) and at least one data visualization tool such as Power BI, Tableau, or Microsoft Power Automate dashboards.\n• Familiarity with federal acquisition data systems such as FPDS‑NG, SAM.gov, eSRS, or USA Spending.gov.\n• Strong knowledge of small business programs, socio‑economic categories (8(a), HUBZone, SDVOSB, WOSB, SDB), and reporting requirements preferred.\n• Excellent organizational, analytical, and problem‑solving skills with strong attention to detail and data accuracy.\n• Strong written and verbal communication skills; able to present findings clearly to technical and non‑technical audiences.\n• Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook) and collaboration platforms such as SharePoint or Teams.\n• U.S. citizenship and the ability to pass a background investigation or obtain a security clearance if required by the contract.\nPreferred Qualifications\n• Experience working within a Small Business Office (OSBP) or federal contracting/acquisition environment.\n• Knowledge of federal procurement data structures,…",
+      "job_is_remote": false,
+      "job_posted_at": "3 days ago",
+      "job_posted_at_timestamp": 1762646400,
+      "job_posted_at_datetime_utc": "2025-11-09T00:00:00.000Z",
+      "job_location": "Falls Church, VA",
+      "job_city": "Falls Church",
+      "job_state": "Virginia",
+      "job_country": "US",
+      "job_latitude": 38.882334,
+      "job_longitude": -77.1710914,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsJu-Q3xDXaRGJxeiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Bachelor’s degree in Data Analytics, Statistics, Business Administration, Economics, or a related quantitative field is required",
+          "Minimum of 3–5 years of experience in data analysis, reporting, or database management—preferably supporting a federal government program or acquisition office",
+          "Demonstrated experience using data analytics tools and techniques to produce accurate and actionable reports",
+          "Proficiency in Microsoft Excel (advanced formulas, pivot tables, charts) and at least one data visualization tool such as Power BI, Tableau, or Microsoft Power Automate dashboards",
+          "Familiarity with federal acquisition data systems such as FPDS‑NG, SAM.gov, eS",
+          "RS, or USA Spending.gov",
+          "Excellent organizational, analytical, and problem‑solving skills with strong attention to detail and data accuracy",
+          "Strong written and verbal communication skills; able to present findings clearly to technical and non‑technical audiences",
+          "Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook) and collaboration platforms such as SharePoint or Teams",
+          "U.S. citizenship and the ability to pass a background investigation or obtain a security clearance if required by the contract"
+        ],
+        "Responsibilities": [
+          "BeVera Solutions, LLC is seeking a detail‑oriented and analytical Data Analyst to provide data management, reporting, and analytical support for the Office of Small Business Programs (OSBP)",
+          "The Data Analyst will collect, evaluate, and interpret data to support strategic planning, performance measurement, and decision‑making for small business utilization and program performance",
+          "This position plays a critical role in ensuring accurate data reporting to internal stakeholders and federal oversight offices, maintaining data integrity across multiple systems, and supporting the OSBP’s mission to promote small business participation in federal contracting opportunities",
+          "Collect, validate, and analyze data related to small business participation, subcontracting goals, and program performance",
+          "Compile and interpret acquisition, contract, and vendor data from government systems (e.g., FPDS‑NG, SAM.gov, eS",
+          "RS, or agency‑specific tools)",
+          "Develop and maintain dashboards, trackers, and databases to support OSBP leadership with timely, accurate insights",
+          "Prepare recurring and ad‑hoc reports, summaries, and presentations for senior leadership, the Contracting Office, and other stakeholders",
+          "Support the analysis of trends in small business utilization, socio‑economic category performance, and vendor outreach effectiveness",
+          "Coordinate with program and acquisition staff to ensure data accuracy and compliance with federal reporting standards",
+          "Assist in developing performance metrics, visualizations, and key performance indicators (KPIs) for program evaluation",
+          "Support the preparation of congressional, audit, or agency reporting packages, ensuring all data is consistent and compliant",
+          "Contribute to process improvement initiatives for data collection, reporting automation, and database management",
+          "Maintain strict confidentiality and data integrity in accordance with federal data governance and cybersecurity requirements"
+        ]
+      },
+      "job_onet_soc": "43911100",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "EOotdJEhTS8xuGOIAAAAAA==",
+      "job_title": "Data Analyst; Hybrid",
+      "employer_name": "SiloSmashers",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKWzDmHOp0Yrfu0GgZsq1R_O5sVRQlvmCcZgV&s=0",
+      "employer_website": "https://silosmashers.com",
+      "job_publisher": "Learn4Good",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.learn4good.com/jobs/arlington/virginia/info_technology/4555921018/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Learn4Good",
+          "apply_link": "https://www.learn4good.com/jobs/arlington/virginia/info_technology/4555921018/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Position: Data Analyst (Hybrid)\n\nData Analyst (Hybrid)\n\nLocation: Arlington, VA (Hybrid)\n\nClearance: Must be a U.S. citizen and able to obtain and maintain DHS suitability clearance, as required by federal contract.\nOverview\n\nThe Data Analyst will support DHS CISA by analyzing and visualizing data to provide actionable insights that advance mission objectives and modernization goals.\nResponsibilities\n• Collect, clean, and analyze datasets from multiple sources.\n• Develop dashboards, reports, and visualizations to support leadership decision-making.\n• Identify trends, patterns, and anomalies to inform mission and operational strategies.\n• Ensure compliance with DHS, NIST, and federal data handling standards.\n• Collaborate with stakeholders to define reporting needs and optimize data-driven performance tracking.\nQualifications\n• Bachelor's degree in Data Science, Information Technology, or a related field.\n• 2–4 years of experience in data analysis or business intelligence.\n• Proficiency in Excel, SQL, and BI tools such as Power BI or Tableau.\n• Strong analytical and communication skills.\n#J-18808-Ljbffr",
+      "job_is_remote": false,
+      "job_posted_at": "11 days ago",
+      "job_posted_at_timestamp": 1761955200,
+      "job_posted_at_datetime_utc": "2025-11-01T00:00:00.000Z",
+      "job_location": "Arlington, VA",
+      "job_city": "Arlington",
+      "job_state": "Virginia",
+      "job_country": "US",
+      "job_latitude": 38.8816208,
+      "job_longitude": -77.09098089999999,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEOotdJEhTS8xuGOIAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 70000,
+      "job_max_salary": 90000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "Clearance: Must be a U.S. citizen and able to obtain and maintain DHS suitability clearance, as required by federal contract",
+          "Bachelor's degree in Data Science, Information Technology, or a related field",
+          "2–4 years of experience in data analysis or business intelligence",
+          "Proficiency in Excel, SQL, and BI tools such as Power BI or Tableau",
+          "Strong analytical and communication skills"
+        ],
+        "Responsibilities": [
+          "The Data Analyst will support DHS CISA by analyzing and visualizing data to provide actionable insights that advance mission objectives and modernization goals",
+          "Collect, clean, and analyze datasets from multiple sources",
+          "Develop dashboards, reports, and visualizations to support leadership decision-making",
+          "Identify trends, patterns, and anomalies to inform mission and operational strategies",
+          "Ensure compliance with DHS, NIST, and federal data handling standards",
+          "Collaborate with stakeholders to define reporting needs and optimize data-driven performance tracking"
+        ]
+      },
+      "job_onet_soc": "43911100",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "YmMolGsQqeS-MILmAAAAAA==",
+      "job_title": "Clinical Data Analyst",
+      "employer_name": "MedStar Health",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBqiTUzCgxZ7xJx9i__XsNuT6kpA_e2uQ7sOQ4&s=0",
+      "employer_website": "https://www.medstarhealth.org",
+      "job_publisher": "JobzMall",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.jobzmall.com/medstar-health/job/clinical-data-analyst-6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "JobzMall",
+          "apply_link": "https://www.jobzmall.com/medstar-health/job/clinical-data-analyst-6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        }
+      ],
+      "job_description": "Manage and develop Board Reports for the Quality, Safety and Professional Affairs Committee. Manage and develop reports for the annual operating plan, as appropriate and requested by the Department Director. Manage the development and maintenance of a tableau dashboard highlighting organization-wide key performance measures. Plan and design information systems and data products to support case management, performance improvement, market share, revenue cycle, outcomes management and physician profiles. Compile and analyze monthly, quarterly, and year end summary reports related to utilization patterns of care and clinical outcomes.\nProvide data expertise to support the development or modification of hospital programs, services and resources. Validate information for accuracy prior to reporting.\n\nMedStar Health is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "Clinton, MD",
+      "job_city": "Clinton",
+      "job_state": "Maryland",
+      "job_country": "US",
+      "job_latitude": 38.765114499999996,
+      "job_longitude": -76.8983059,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYmMolGsQqeS-MILmAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 68000,
+      "job_max_salary": 106000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Responsibilities": [
+          "Manage and develop Board Reports for the Quality, Safety and Professional Affairs Committee",
+          "Manage and develop reports for the annual operating plan, as appropriate and requested by the Department Director",
+          "Manage the development and maintenance of a tableau dashboard highlighting organization-wide key performance measures",
+          "Plan and design information systems and data products to support case management, performance improvement, market share, revenue cycle, outcomes management and physician profiles",
+          "Compile and analyze monthly, quarterly, and year end summary reports related to utilization patterns of care and clinical outcomes",
+          "Provide data expertise to support the development or modification of hospital programs, services and resources",
+          "Validate information for accuracy prior to reporting"
+        ]
+      },
+      "job_onet_soc": "43911100",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "K9ccSzMAv-FZzjhyAAAAAA==",
+      "job_title": "Social Science Data Analyst",
+      "employer_name": "Zintellect",
+      "employer_logo": null,
+      "employer_website": "https://zintellect.com",
+      "job_publisher": "Zintellect",
+      "job_employment_type": "Internship",
+      "job_employment_types": [
+        "INTERN"
+      ],
+      "job_apply_link": "https://www.zintellect.com/Opportunity/Details/EPA-NSSC-0002-20-1-18-24?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Zintellect",
+          "apply_link": "https://www.zintellect.com/Opportunity/Details/EPA-NSSC-0002-20-1-18-24?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "The EPA National Student Services Contract has an immediate opening for a full time Social Science Data Analyst position with the Office of Research and Development at the EPA facility in Washington, DC.\n\nThe Office of Research and Development at the EPA supports high-quality research to improve the scientific basis for decisions on national environmental issues and help EPA achieve its environmental goals. Research is conducted in a broad range of environmental areas by scientists in EPA laboratories and at universities across the country.\n\nWhat the EPA project is about\n\nThe Office of Science Advisor, Policy and Engagement (OSAPE) supports the Agency’s Science Advisor and integrates and coordinates science across ORD and the Agency, with key external partners, and into the regulatory process. This work includes leading EPA’s scientific integrity and innovation programs; managing ORD’s extramural research programs and regional science programs; coordinating ORD’s partnerships with tribes, other federal agencies and international organizations, and state and local partners; and serving as ORD’s lead on science policy issues. Within OSAPE, the Scientific Integrity Program leads the agency’s implementation of the scientific integrity policy, promotes a culture of scientific integrity, conducts training and outreach and provides both a vision and a roadmap for scientific integrity at the Agency.\n\nWhat experience and skills will you gain?\n\nAs a team member, you will help to develop and implement cross-agency strategies that support the Scientific Integrity Program and the functions listed above. The team member will assist with the analytical and administrative duties required to support and maintain a robust Scientific Integrity Program. Specific duties and/or responsibilities include, but are not limited to:\n• Assisting the Scientific Integrity Program in developing, testing, administering an agency wide survey instrument to evaluate effectiveness. Conducting analysis of survey data for trends and preparing summary reports for management and public. Request candidates provide an example of past survey work.\n• Assisting the Scientific Integrity Program in developing metrics and tools for evaluating the effectiveness of the scientific integrity program.\n• Assisting the Scientific Integrity Program in developing survey communication materials for broad audience using clear and articulate language, visual design, graphics, desktop publishing and other interactive formats.\n• Assisting the Scientific Integrity Program in developing training tools, resource documents, and outreach materials under the direction of the team leader and preparing web related and other communication materials.\n• Assisting the Scientific Integrity Program with the development of products, the conduct of meetings, storing and properly manage the records, and timely search and retrieval of information.\n• Tracking products, trainings, and activities in a shared database for annual reporting.\n• Technical review of writing material to correct or improve grammar, syntax, quality and understanding of content. Review includes proofreading and offering suggestions to improve communication of subject matter for broad audience.\n• Performing research and summarizing information on topics that support the Scientific Integrity Program and responsibilities.\n• Working in a team environment that supports cross learning and maximizes the student opportunity to learn about the functions of the Scientific Integrity Program, OSAPE, as well as other components of EPA.\n\nRequired Knowledge, Skills, Work Experience, and Education\n• Experience administering a large-scale survey, including development of survey instrument, methodology, testing, field management, data collection, analysis, evaluation, and reporting;\n• Experience writing for a lay audience about science, environmental issues or public health concerns as evidenced by a writing sample;\n• Demonstrated skill with survey and analytical software tools in at least one of the following tools: Qualtrics, IBM SPSS Statistics or NVivo;\n• Experience conducting analysis of data and information to address specific applications.\n• Experience with program evaluation and the logic models;\n• Demonstrated leadership, clear communication and critical thinking skills and experience working in teams;\n• Demonstrated skill in developing communication and outreach materials;\n• Strong leadership and organizational skills, including demonstrated ability to handle multiple assignments with competing deadlines;\n• Strong proof reading and editing skills; and\n• Advanced skills with Microsoft Office applications including Teams, Excel, PowerPoint, Word, and Outlook.\n\nLocation: This job will be located EPA’s facility in Washington, DC.\n\nSalary: Selected applicant will become a temporary employee of ORAU and will receive an hourly wage of $33.14 for hours worked.\n\nHours: Full-time.\n\nTravel: No travel is expected.\n\nExpected start date: The position is full time and expected to begin February 2024. The selected applicant will become a temporary employee of ORAU working as a contractor to EPA. The contract renews each May through 2025.\n\nFor more information, contact EPANSSC@orau.org. Do not contact EPA directly.",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "Washington, DC",
+      "job_city": "Washington",
+      "job_state": "District of Columbia",
+      "job_country": "US",
+      "job_latitude": 38.9071923,
+      "job_longitude": -77.0368707,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DK9ccSzMAv-FZzjhyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Experience administering a large-scale survey, including development of survey instrument, methodology, testing, field management, data collection, analysis, evaluation, and reporting;",
+          "Experience writing for a lay audience about science, environmental issues or public health concerns as evidenced by a writing sample;",
+          "Demonstrated skill with survey and analytical software tools in at least one of the following tools: Qualtrics, IBM SPSS Statistics or NVivo;",
+          "Experience conducting analysis of data and information to address specific applications",
+          "Experience with program evaluation and the logic models;",
+          "Demonstrated leadership, clear communication and critical thinking skills and experience working in teams;",
+          "Demonstrated skill in developing communication and outreach materials;",
+          "Strong leadership and organizational skills, including demonstrated ability to handle multiple assignments with competing deadlines;",
+          "Strong proof reading and editing skills; and",
+          "Advanced skills with Microsoft Office applications including Teams, Excel, PowerPoint, Word, and Outlook"
+        ],
+        "Benefits": [
+          "Salary: Selected applicant will become a temporary employee of ORAU and will receive an hourly wage of $33.14 for hours worked",
+          "Hours: Full-time"
+        ],
+        "Responsibilities": [
+          "The Office of Science Advisor, Policy and Engagement (OSAPE) supports the Agency’s Science Advisor and integrates and coordinates science across ORD and the Agency, with key external partners, and into the regulatory process",
+          "This work includes leading EPA’s scientific integrity and innovation programs; managing ORD’s extramural research programs and regional science programs; coordinating ORD’s partnerships with tribes, other federal agencies and international organizations, and state and local partners; and serving as ORD’s lead on science policy issues",
+          "Within OSAPE, the Scientific Integrity Program leads the agency’s implementation of the scientific integrity policy, promotes a culture of scientific integrity, conducts training and outreach and provides both a vision and a roadmap for scientific integrity at the Agency",
+          "As a team member, you will help to develop and implement cross-agency strategies that support the Scientific Integrity Program and the functions listed above",
+          "The team member will assist with the analytical and administrative duties required to support and maintain a robust Scientific Integrity Program",
+          "Assisting the Scientific Integrity Program in developing, testing, administering an agency wide survey instrument to evaluate effectiveness",
+          "Conducting analysis of survey data for trends and preparing summary reports for management and public",
+          "Request candidates provide an example of past survey work",
+          "Assisting the Scientific Integrity Program in developing metrics and tools for evaluating the effectiveness of the scientific integrity program",
+          "Assisting the Scientific Integrity Program in developing survey communication materials for broad audience using clear and articulate language, visual design, graphics, desktop publishing and other interactive formats",
+          "Assisting the Scientific Integrity Program in developing training tools, resource documents, and outreach materials under the direction of the team leader and preparing web related and other communication materials",
+          "Assisting the Scientific Integrity Program with the development of products, the conduct of meetings, storing and properly manage the records, and timely search and retrieval of information",
+          "Tracking products, trainings, and activities in a shared database for annual reporting",
+          "Technical review of writing material to correct or improve grammar, syntax, quality and understanding of content",
+          "Review includes proofreading and offering suggestions to improve communication of subject matter for broad audience",
+          "Performing research and summarizing information on topics that support the Scientific Integrity Program and responsibilities",
+          "Working in a team environment that supports cross learning and maximizes the student opportunity to learn about the functions of the Scientific Integrity Program, OSAPE, as well as other components of EPA"
+        ]
+      },
+      "job_onet_soc": "43911100",
+      "job_onet_job_zone": "4"
+    }
+  ]
+}
